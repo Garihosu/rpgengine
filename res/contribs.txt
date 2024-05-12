@@ -1,0 +1,8 @@
+Format:
+Name (Alternate name):
+	music/fileA (optional license)
+	art/fileB
+	...
+
+Noah Barger (Garihosu):
+	music/owens.mp3

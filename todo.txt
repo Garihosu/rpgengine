@@ -1,5 +1,7 @@
-
 [] create core engine
+	[] graphics
+		[] graphics loading
+		[] drawing
 	[] entities
 		[] players
 		[] npcs
@@ -16,5 +18,3 @@
 extra features?
 [] settings
 [] mods
-
-
