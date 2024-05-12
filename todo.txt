@@ -1,0 +1,20 @@
+
+[] create core engine
+	[] entities
+		[] players
+		[] npcs
+		[] objects
+	[] maps
+		[] tiles
+		[] transitions
+		[] spawn zones
+	[] battles
+		[] battle manager
+		[] enemies
+		[] stats
+
+extra features?
+[] settings
+[] mods
+
+
